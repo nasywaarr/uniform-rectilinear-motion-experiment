@@ -4,7 +4,7 @@ from math import sqrt
 errore_spazio = 0.2  # m
 errore_tempo = 0.1   # s
 
-FILENAME = "esperimento_mru.txt"
+FILENAME = "esperimento_mru_or.txt"
 
 # 1. Lettura del file
 with open(FILENAME, "r") as file:

@@ -23,7 +23,7 @@ Velocità media: v = (2.00 ± 0.10) m/s
 ## Quick start
 ```powershell
 cd tasks/opening-reading-files
-Copy-Item esperimento_mru_or.txt esperimento_mru.txt -Force
+Copy-Item esperimento_mru_or.txt -Force
 python opening_reading_files.py
 ```
 See the [task README](tasks/opening-reading-files/README.md) for details.
